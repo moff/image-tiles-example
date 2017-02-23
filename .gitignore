@@ -1,0 +1,7 @@
+Vagrantfile
+Homestead.yaml
+vendor
+images/*
+composer.lock
+.vagrant
+db/data

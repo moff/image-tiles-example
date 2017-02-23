@@ -1,0 +1,10 @@
+{
+    "require": {
+        "intervention/image": "^2.3",
+        "robmorgan/phinx": "^0.7.1",
+        "catfan/Medoo": "^1.2"
+    },
+    "require-dev": {
+        "laravel/homestead": "^4.0"
+    }
+}

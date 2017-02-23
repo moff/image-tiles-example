@@ -1,0 +1,23 @@
+#tilesBox
+{
+    overflow: hidden;
+}
+
+#wrapper 
+{
+    margin: 0px 50px;
+}
+
+.item {
+    float: left;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.progress-bar-green {
+    opacity: 1;
+    height: 2px;
+    margin: 0.4em 0;
+    width: 0;
+    background: green;
+}

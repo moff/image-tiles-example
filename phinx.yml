@@ -1,0 +1,12 @@
+paths:
+    migrations: %%PHINX_CONFIG_DIR%%/db/migrations
+    seeds: %%PHINX_CONFIG_DIR%%/db/seeds
+
+environments:
+    development:
+        adapter: sqlite
+        name: ./db/data
+
+    testing:
+        adapter: sqlite
+        memory: true
